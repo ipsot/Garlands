@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\Garlands\Garlands\bin\Debug\Garlands.exe.config
+C:\Users\mort8\source\repos\Garlands\Garlands\bin\Debug\Garlands.exe
+C:\Users\mort8\source\repos\Garlands\Garlands\bin\Debug\Garlands.pdb
+C:\Users\mort8\source\repos\Garlands\Garlands\obj\Debug\Garlands.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\Garlands\Garlands\obj\Debug\Garlands.exe
+C:\Users\mort8\source\repos\Garlands\Garlands\obj\Debug\Garlands.pdb
